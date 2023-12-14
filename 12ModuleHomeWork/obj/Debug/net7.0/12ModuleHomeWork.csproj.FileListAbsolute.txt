@@ -1,0 +1,15 @@
+/Users/alikhan/Projects/12ModuleHomeWork/12ModuleHomeWork/bin/Debug/net7.0/12ModuleHomeWork
+/Users/alikhan/Projects/12ModuleHomeWork/12ModuleHomeWork/bin/Debug/net7.0/12ModuleHomeWork.deps.json
+/Users/alikhan/Projects/12ModuleHomeWork/12ModuleHomeWork/bin/Debug/net7.0/12ModuleHomeWork.runtimeconfig.json
+/Users/alikhan/Projects/12ModuleHomeWork/12ModuleHomeWork/bin/Debug/net7.0/12ModuleHomeWork.dll
+/Users/alikhan/Projects/12ModuleHomeWork/12ModuleHomeWork/bin/Debug/net7.0/12ModuleHomeWork.pdb
+/Users/alikhan/Projects/12ModuleHomeWork/12ModuleHomeWork/obj/Debug/net7.0/12ModuleHomeWork.csproj.AssemblyReference.cache
+/Users/alikhan/Projects/12ModuleHomeWork/12ModuleHomeWork/obj/Debug/net7.0/12ModuleHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alikhan/Projects/12ModuleHomeWork/12ModuleHomeWork/obj/Debug/net7.0/12ModuleHomeWork.AssemblyInfoInputs.cache
+/Users/alikhan/Projects/12ModuleHomeWork/12ModuleHomeWork/obj/Debug/net7.0/12ModuleHomeWork.AssemblyInfo.cs
+/Users/alikhan/Projects/12ModuleHomeWork/12ModuleHomeWork/obj/Debug/net7.0/12ModuleHomeWork.csproj.CoreCompileInputs.cache
+/Users/alikhan/Projects/12ModuleHomeWork/12ModuleHomeWork/obj/Debug/net7.0/12ModuleHomeWork.dll
+/Users/alikhan/Projects/12ModuleHomeWork/12ModuleHomeWork/obj/Debug/net7.0/refint/12ModuleHomeWork.dll
+/Users/alikhan/Projects/12ModuleHomeWork/12ModuleHomeWork/obj/Debug/net7.0/12ModuleHomeWork.pdb
+/Users/alikhan/Projects/12ModuleHomeWork/12ModuleHomeWork/obj/Debug/net7.0/12ModuleHomeWork.genruntimeconfig.cache
+/Users/alikhan/Projects/12ModuleHomeWork/12ModuleHomeWork/obj/Debug/net7.0/ref/12ModuleHomeWork.dll
